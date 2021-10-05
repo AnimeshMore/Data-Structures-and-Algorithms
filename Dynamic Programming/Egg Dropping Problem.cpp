@@ -1,6 +1,4 @@
 // GFG Problem Link -https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle-1587115620/1
-
-
 // { Driver Code Starts
 #include<bits/stdc++.h>
 using namespace std;
