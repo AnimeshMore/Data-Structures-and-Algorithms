@@ -42,7 +42,7 @@ class Solution
 // { Driver Code Starts.
 int main()
 {
-    int t,n,k,x,y;
+    int t,x,y;
     cin>>t;
     while(t--)
     {
